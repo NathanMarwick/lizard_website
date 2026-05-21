@@ -2,6 +2,9 @@
 
 This repository controls the lizard sales website published with GitHub Pages. The website is a simple static page: lizard details are stored in `animals.json`, photos are stored in `photos/`, and `index.html` builds the gallery when someone opens the site.
 
+URL: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+Current URL: https://nathanmarwick.github.io/lizard_website/
+
 Most updates only need two things:
 
 1. Edit `animals.json`.
