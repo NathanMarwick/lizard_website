@@ -753,7 +753,7 @@
         "Hyper"
       ],
       "sex": "Female",
-      "price": NFS,
+      "price": "NFS",
       "dob": "2022",
       "notes": "White Northern, 66% het Albino"
     },
@@ -767,7 +767,7 @@
         "Hyper"
       ],
       "sex": "Female",
-      "price": NFS,
+      "price": "NFS",
       "dob": "2022",
       "notes": "Anery, 66% het Albino"
     },
@@ -781,7 +781,7 @@
         "Hyper"
       ],
       "sex": "Male",
-      "price": NFS,
+      "price": "NFS",
       "dob": "2022",
       "notes": "White Northern, 66% het Albino"
     }
